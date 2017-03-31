@@ -5,6 +5,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/vk-fast-longpoll.svg)](https://www.npmjs.com/package/vk-fast-longpoll)
 [![NPM downloads](https://img.shields.io/npm/dt/vk-fast-longpoll.svg)](https://www.npmjs.com/package/vk-fast-longpoll)
+
 # Русский
 ## Установка и начало работы
 ### Установка
