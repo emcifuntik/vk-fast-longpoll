@@ -10,7 +10,7 @@
 ## Установка и начало работы
 ### Установка
 ```shell
-npm install vk-io --save
+npm install vk-fast-longpoll --save
 ```
 ### Инициализация
 ```javascript
