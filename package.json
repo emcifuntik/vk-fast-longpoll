@@ -28,7 +28,7 @@
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "scripts": {
-    "test": "node test/test.js"
+    "sample": "node examples/sample.js"
   },
   "version": "2.1.1"
 }
