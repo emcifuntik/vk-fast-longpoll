@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "bluebird": "^3.5.0",
+    "file-type": "^4.1.0",
     "request": "^2.81.0",
     "winston": "^2.3.1"
   },
@@ -30,13 +31,28 @@
   "optionalDependencies": {},
   "readme": "readme.md",
   "scripts": {
-    "sample": "node examples/sample.js"
+    "test": "node examples/sample.js"
   },
-  "version": "2.1.4",
+  "version": "2.1.7",
   "bugs": {
     "url": "https://github.com/emcifuntik/vk-fast-longpoll/issues/new",
     "email": "emcifuntik@gmail.com"
   },
+  "keywords": [
+    "vk",
+    "longpoll",
+    "bot",
+    "vk-api",
+    "vk-app",
+    "vkontakte",
+    "vk-bot",
+    "vkbot",
+    "vkontakte-sdk",
+    "vkontakte-api",
+    "vkontakte-client",
+    "vkapi",
+    "bots"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/emcifuntik/vk-fast-longpoll.git"
