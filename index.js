@@ -8,9 +8,9 @@ module.exports = class {
     /**
      * @param  {String} token - VK user or group token
      */
-    constructor(token)
+    constructor(token, version)
     {
-        this._api = new API(token);
+        this._api = new API(token, version);
         this._longpoll = new Longpoll(this._api);
         this._file = new File(this._api);
     }
